@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>/Users/DonaldW/Documents/projects/ied_kl_rep/client_proj/trunk/KillerProject/Assets/Plugins/MoreFunMonoLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:MoreFun.MoreDebug">
+            <summary>
+            MoreDebug.
+            </summary>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLog(System.Object)">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log the type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLog(System.Object,System.Object)">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLog(System.Object,System.Object[])">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.Log(System.Object)">
+            <summary>
+                <para>Log the type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.Log(System.Object,System.Object)">
+            <summary>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.Log(System.Object,System.Object[])">
+            <summary>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLogWarning(System.Object)">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log the type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLogWarning(System.Object,System.Object)">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLogWarning(System.Object,System.Object[])">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.LogWarning(System.Object)">
+            <summary>
+                <para>Log the type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.LogWarning(System.Object,System.Object)">
+            <summary>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.LogWarning(System.Object,System.Object[])">
+            <summary>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLogError(System.Object)">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log the type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLogError(System.Object,System.Object)">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.MoreLogError(System.Object,System.Object[])">
+            <summary>
+                <para>Extension method for object.</para>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.LogError(System.Object)">
+            <summary>
+                <para>Log the type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.LogError(System.Object,System.Object)">
+            <summary>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+        <member name="M:MoreFun.MoreDebug.LogError(System.Object,System.Object[])">
+            <summary>
+                <para>Log message with type info, method info and date time info.</para>
+                <para>Do NOT call this function at high frequency,
+            because it will bring great performance overhead.</para>
+            </summary>
+            <param name="caller">Caller.</param>
+            <param name="message">Message.</param>
+        </member>
+    </members>
+</doc>
